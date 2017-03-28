@@ -6,7 +6,7 @@ from Bio import SeqIO
 path= # add path to directory containing all the fasta files
 alignment=# create a new file for the alignment
 raxml_input_file=open(alignment,'a')
-#check length of fasta sequences than concatenate all the fastas in one file (raxml_input_file)
+#check length of fasta sequences then concatenate all the fastas in one file (raxml_input_file)
 for f in os.listdir(path):
         os.chdir(path)
         FastaFile = open(f, 'rU')
