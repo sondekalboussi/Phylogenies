@@ -6,8 +6,8 @@ f=open(path,"r").read().split('\n')
 header=f[0].split(",")[6]
 F=[i.strip() for i in f[1:]]#remove the return \r at the end of list
 Lab=[]
-column_heatmap=[]#enter the index of heatmap column separated by ,
-column_label=[]#enter the index of non heatmap column separated by ,
+column_heatmap=[]#enter the index of columns for heatmap 
+column_label=[]#enter the index of columns for group labels 
 for x in F:
     sample=x and x.split(',')[0]
     for c in column_label:
@@ -17,7 +17,7 @@ for x in F:
         if label not in label_Color and color not in label_Color.values():
             label_Color[label]=color
         if label is not "":
-            script="""
+            script=""" #evolview script for group label
 {}	text={},fontcolor=black,linewidth=4,bkcolor={}""".format(sample,label,label_Color[label])
             new.write(script)
         new.close()
@@ -34,7 +34,7 @@ for x in F:
             Avg=sum(Lab)/L
             Avg1=sum(Lab[:(L/2)+1])/L/2
             Avg2=sum(Lab[(L/2)+1:])/L/2
-            script="""
+            script=""" #evolview script for heatmap
 {}
         """.format(group)
             new.write(script)
