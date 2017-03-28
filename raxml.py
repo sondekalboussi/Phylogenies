@@ -29,8 +29,8 @@ for f in os.listdir(path):
 raxml_input_file.close()    
 from datetime import datetime
 start_time = datetime.now()
-inp_fasta='/Users/sondeskalboussi/Desktop/DATA/alignment1.fa'
-out_name='T1'
+inp_fasta=raxml_input_file
+out_name=#add path to an output tree file
 os.system("raxmlHPC -s {inp} -n {out} -m GTRCAT -p12345".format(inp=inp_fasta,out=out_name))
 end_time = datetime.now()
 print('Duration: {}'.format((end_time - start_time)))
