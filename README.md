@@ -10,5 +10,6 @@ organize trees, projects and datasets in an intuitive and efficient way.
 The following folder contain different python scripts:
 
 Phylogenies.py: generate evolview scripts to display a tree with different labels
+
 add_lineage_to_Id.py: add lineage to sample-id in a tre or fasta file
 
