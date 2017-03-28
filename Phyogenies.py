@@ -34,10 +34,10 @@ for x in F:
             Avg=sum(Lab)/L
             Avg1=sum(Lab[:(L/2)+1])/L/2
             Avg2=sum(Lab[(L/2)+1:])/L/2
-            script=""" #evolview script for heatmap
+            script1=""" #evolview script for heatmap
 {}
         """.format(group)
-            new.write(script)
+            new.write(script1)
         new.close()
 
 for c in column_label:
