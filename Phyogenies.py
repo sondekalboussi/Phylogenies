@@ -1,7 +1,7 @@
 import os
 import random
 label_Color={}
-path=#add path to csv file between ""
+path=#add path to csv file between 
 f=open(path,"r").read().split('\n')
 header=f[0].split(",")[6]
 F=[i.strip() for i in f[1:]]#remove the return \r at the end of list
