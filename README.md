@@ -13,3 +13,5 @@ Phylogenies.py: generate evolview scripts to display a tree with different label
 
 add_lineage_to_Id.py: add lineage to sample-id in a tre or fasta file
 
+raxml.py: create an alignment file from all the fastas and run raxml
+
