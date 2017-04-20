@@ -6,11 +6,11 @@ visualize phylogenetic trees of various formats, add datasets and do customizati
 
 The following folder contain different python scripts:
 
-EVolview.py: generate evolview scripts to plot parameters from VCF file and metadata on the tree
+EVolview_script.py: generate evolview scripts to plot parameters from VCF file and metadata on the tree
 
 add_lineage_to_Id.py: add lineage to sample-id in a tre or fasta file
 
 raxml.py: create an alignment file from all the fastas and run raxml
 
-iTOL.py: generate iTOL scripts to plot parameters from VCF file and metadata on the tree
+iTOL_script.py: generate iTOL scripts to plot parameters from VCF file and metadata on the tree
 
