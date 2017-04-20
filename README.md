@@ -1,6 +1,6 @@
 # CWGSMTB
 
-EvolView (http://www.evolgenius.info/evolview/#login) and iTOL are online tools for displaying, managing and customizing phylogenetic trees.
+EvolView (http://www.evolgenius.info/evolview/#login) and iTOL (http://itol.embl.de/)are online tools for displaying, managing and customizing phylogenetic trees.
 With tese tools, you can:
 visualize phylogenetic trees of various formats, add datasets and do customizations to phylogenetic trees, export trees to various text (newick, nhx, phyloXML, etc) and graphic formats, and organize trees, projects and datasets in an intuitive and efficient way.
 
