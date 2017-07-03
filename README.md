@@ -15,8 +15,9 @@ raxml.py: create an alignment file from all the fastas and run raxml
 iTOL_script.py: generate iTOL scripts to plot parameters from VCF file and metadata on the tree
 
 
-#TuberannoBE
-Tuberanno is a pipeline for the whole genome sequencing analysis for MTB
+# TuberannoBE
+
+Tuberanno is a pipeline for the whole genome sequencing analysis for MTB reference based annotation
 
 
 
