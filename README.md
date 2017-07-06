@@ -15,9 +15,9 @@ raxml.py: create an alignment file from all the fastas and run raxml
 iTOL_script.py: generate iTOL scripts to plot parameters from VCF file and metadata on the tree
 
 
-# TuberannoBE
+# BSMTBan(Belgian SouthAfrican Tuberculosis Annotation pipeline)
 
-Tuberanno is a pipeline for the whole genome sequencing analysis for MTB reference based annotation
+TuberannoBESA is a pipeline for MTB reference based whole genome assembly
 
 
 
