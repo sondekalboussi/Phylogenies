@@ -17,7 +17,7 @@ iTOL_script.py: generate iTOL scripts to plot parameters from VCF file and metad
 
 # BSMTBan (Belgian SouthAfrican Tuberculosis Annotation pipeline)
 
-TuberannoBESA is a pipeline for MTB reference based whole genome assembly
+BSMTBan is a pipeline for MTB reference based whole genome assembly
 
 
 
