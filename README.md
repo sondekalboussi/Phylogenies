@@ -1,6 +1,6 @@
-# CWGSMTB
+# CWGSMTB (https://www.cwgsmtb.com/)
 
-EvolView (http://www.evolgenius.info/evolview/#login) and iTOL (http://itol.embl.de/) are online tools for displaying, managing and customizing phylogenetic trees.
+EvolView (http://www.evolgenius.info/evolview) and iTOL (http://itol.embl.de) are online tools for displaying, managing and customizing phylogenetic trees.
 With tese tools, you can:
 visualize phylogenetic trees of various formats, add datasets and do customizations to phylogenetic trees, export trees to various text (newick, nhx, phyloXML, etc) and graphic formats, and organize trees, projects and datasets in an intuitive and efficient way.
 
@@ -20,5 +20,5 @@ BSMTBan is a pipeline for MTB reference based whole genome assembly
 
 
 Please cite these scripts as follows:
-S. Kalboussi & T.H. Heupink, [script], (2017), GitHub repository, https://github.com/sondekalboussi/CWGSMTB
+S. Kalboussi & T.H. Heupink, [script], (2017), CWGSMTB GitHub repository, https://github.com/sondekalboussi/CWGSMTB
 
