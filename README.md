@@ -1,6 +1,6 @@
-# These codes are made as a part the Center for whole genome sequencing for MTB project CWGSMTB (https://www.cwgsmtb.com/)
+# These codes were made as a part the Center for whole genome sequencing for MTB (CWGSMTB) project https://www.cwgsmtb.com/
 
-   #Analysis of the phylogeny of M. tuberculosis strains collected as part of a prospective observational study 
+      Analysis of the phylogeny of M. tuberculosis strains collected as part of a prospective observational Exit_Rif study 
 
 EvolView (http://www.evolgenius.info/evolview) and iTOL (http://itol.embl.de) are online tools for displaying, managing and customizing phylogenetic trees.
 With tese tools, you can:
