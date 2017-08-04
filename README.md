@@ -1,7 +1,6 @@
 
 
-# Analysis of the phylogeny of M. tuberculosis strains collected as part of a prospective observational Exit_Rif study for Center for whole genome sequencing for MTB (CWGSMTB) project https://www.cwgsmtb.com/
-
+# Analysis of the phylogeny of M. tuberculosis strains collected as part of a prospective observational Exit_Rif study 
 
 EvolView (http://www.evolgenius.info/evolview) and iTOL (http://itol.embl.de) are online tools for displaying, managing and customizing phylogenetic trees.
 With tese tools, you can:
