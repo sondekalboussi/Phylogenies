@@ -1,4 +1,3 @@
-# These codes were made as a part the Center for whole genome sequencing for MTB (CWGSMTB) project https://www.cwgsmtb.com/
 
 
 # Analysis of the phylogeny of M. tuberculosis strains collected as part of a prospective observational Exit_Rif study 
@@ -21,5 +20,5 @@ iTOL_script.py: generate iTOL scripts to plot parameters from VCF file and metad
 
 
 Please cite these scripts as follows:
-S. Kalboussi & T.H. Heupink, [script], (2017), CWGSMTB GitHub repository, https://github.com/sondekalboussi/CWGSMTB
+S. Kalboussi & T.H. Heupink,Phylogeny,(2017), https://github.com/sondekalboussi/CWGSMTB
 
